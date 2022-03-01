@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".." review="" />
+  <default revision="main" remote="origin" sync-j="1" />
+  <project name=".github.git" path="github" />
+  <project name="demo.git" path="demo" />
+  <project name="distninja.github.io.git" path="distninja.github.io" />
+  <project name="ninja.git" path="ninja" />
+</manifest>
