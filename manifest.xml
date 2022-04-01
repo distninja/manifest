@@ -6,4 +6,5 @@
   <project name="demo.git" path="demo" />
   <project name="distninja.github.io.git" path="distninja.github.io" />
   <project name="ninja.git" path="ninja" />
+  <project name="testing.git" path="testing" />
 </manifest>
